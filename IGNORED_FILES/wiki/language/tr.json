@@ -1,0 +1,82 @@
+{
+    "language" : "Türkçe",
+    "password" : "Şifre",
+    "email" : "eposta",
+    "username" : "Kullanıcı adı",
+    "confirm" : "Onayla",
+    "print" : "Yazdır",
+    "treehistory" : "Geçmiş Ağacı",
+    "update" : "Güncelle",
+    "userprofile" : "Kullanıcı Profili",
+    "subscribe" : "Değişikliklere abone ol",
+    "save" : "Kaydet",
+    "cancel" : "İptal",        
+    "preview" : "Önizleme",
+    "comment" : "Yorum",
+    "return" : "Geri dön",
+    "images" : "Resimler",
+    "insertimage" : "Resim Ekle",
+    "reference" : "Referans",
+    "pagelocked" : "Sayfa Kilitli",
+    "sourceview" : "Kaynağı Görüntüle",
+    "choosefile" : "Dosya Seç",
+    "upload" : "Upload",
+    
+    "scroll" : "Scroll", 
+           
+    "history" : {
+        "display" : "Göster",
+        "revert" : "Geri al",
+        "revision" : "Revizyon",
+        "old" : "eski",
+        "new" : "yeni",
+        "lines" : "satır",
+        "current" : "Güncel", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+    },
+    "menu" : {
+        "login" : "Giriş yap",
+        "logout" : "Çıkış yap",
+        "register" : "Kayıt ol",
+        "edit" : "Düzenle",
+        "tags" : "Etiketler",
+        "profile" : "Profil",
+        "history" : "Geçmiş",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin"     
+    },
+    "tabs" : {
+        "contents" : "İçindekiler",
+        "index" : "Dizin",
+        "search" : "Ara",
+        "type" : "Bulmak için kelimeyi yazın",
+        "list" : "Konuları Listele"
+    },
+    "node" : {
+        "title" : "Nod Ayarları",
+        "newpage" : "Yeni Sayfa Adı",
+        "add" : "Ekle",
+        "action" : "İşlem",
+        "remove" : "Kaldır",
+        "cut" : "Kes",
+        "paste" : "Yapıştır",
+        "rename" : "Yeniden adlandır",
+        "addpaste" : "Ekle / Yapıştır",
+        "before" : "Önce",
+        "after" : "Sonra",
+        "in" : "içinde",
+        "comment" : "Revizyon Yorumu"
+    },
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+
+}

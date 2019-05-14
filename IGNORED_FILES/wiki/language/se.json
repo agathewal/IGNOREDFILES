@@ -1,0 +1,81 @@
+{
+    "language" : "Svenska",
+    "password" : "Lösenord",
+    "email" : "e-post",
+    "username" : "Användarnamn",
+    "confirm" : "Bekräfta",
+    "print" : "Skriv ut",
+    "treehistory" : "Historik",
+    "update" : "Uppdatera",
+    "userprofile" : "Användarprofil",
+    "subscribe" : "Abonnera på ändringars",
+    "save" : "Spara",
+    "cancel" : "Avbryt",
+    "preview" : "Förhandsgranska",
+    "comment" : "Kommentar",
+    "return" : "Vagnretur",
+    "images" : "Bilder",
+    "insertimage" : "Infoga bild",
+    "reference" : "Referens",
+    "pagelocked" : "Sidan låst",
+    "sourceview" : "Visa källkod",
+    "choosefile" : "Välj fil",
+    "upload" : "Ladda upp",
+
+    "scroll" : "Skrolla",
+
+    "history" : {
+        "display" : "Visa",
+        "revert" : "Ångra",
+        "revision" : "Revision",
+        "old" : "old",
+        "new" : "ny",
+        "lines" : "linjer",
+        "current" : "Aktuell",
+
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+    },
+    "menu" : {
+        "login" : "Logga in",
+        "logout" : "Logga ut",
+        "register" : "Registrera",
+        "edit" : "Redigera",
+        "tags" : "Flikar",
+        "profile" : "Profil",
+        "history" : "Historik",
+
+        "edittags" : "Redigera flikar",
+        "view" : "Visa",
+        "admin" : "Admin"
+    },
+    "tabs" : {
+        "contents" : "Innehåll",
+        "index" : "Index",
+        "search" : "Sök",
+        "type" : "Skriv in de sökord som skall hittas",
+        "list" : "Lista"
+    },
+    "node" : {
+        "title" : "Nod",
+        "newpage" : "Nytt sidnamn",
+        "add" : "Lägg till",
+        "action" : "Verkställ",
+        "remove" : "Ta bort",
+        "cut" : "Klipp ut",
+        "paste" : "Klistra in",
+        "rename" : "Nytt namn",
+        "addpaste" : "Lägg till / Kopiera in",
+        "before" : "Tidigare",
+        "after" : "Efter",
+        "in" : "i",
+        "comment" : "Revisionskommentar"
+    },
+    "message" : {
+        "unlocked" : "Sidan måste vara upplåst",
+        "loggedin" : "Du måste var inloggad och sidan måste vara uppplåst.",
+        "unauthorized" : "Du har inte behörighet att ändra sidstrukturen!"
+
+    }
+}

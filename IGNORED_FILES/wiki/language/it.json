@@ -1,0 +1,82 @@
+{
+    "language" : "Italiano",
+    "password" : "Password",
+    "email" : "email",
+    "username" : "Username",
+    "confirm" : "Conferma",
+    "print" : "Stampa",
+    "treehistory" : "Storico albero",
+    "update" : "Aggiorna",
+    "userprofile" : "Profilo utente",
+    "subscribe" : "Abbonati alle variazioni",
+    "save" : "Salva",
+    "cancel" : "Annulla",
+    "preview" : "Anteprima",
+    "comment" : "Commenti",
+    "return" : "Ritorna",
+    "images" : "Immagini",
+    "insertimage" : "Inserisci immagine",
+    "reference" : "Riefrimento",
+    "pagelocked" : "Pagina bloccata",
+    "sourceview" : "Vista sorgente",
+    "choosefile" : "Scegli File",
+    "upload" : "Upload",
+    
+    "scroll" : "Scroll", 
+           
+    "history" : {
+        "display" : "Visualizza",
+        "revert" : "Ripristina",
+        "revision" : "Revisione",
+        "old" : "vecchio",
+        "new" : "nuovo",
+        "lines" : "linee",
+        "current" : "Attuale", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+    },
+    "menu" : {
+        "login" : "Login",
+        "logout" : "Logout",
+        "register" : "Registrati",
+        "edit" : "Modifica",
+        "tags" : "Tags",
+        "profile" : "Profilo",
+        "history" : "Storico",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin"      
+    },
+    "tabs" : {
+        "contents" : "Contenuti",
+        "index" : "Indice",
+        "search" : "Cerca",
+        "type" : "Inserisci il termine da cercare",
+        "list" : "Elenco argomenti"
+    },
+    "node" : {
+        "title" : "Opzioni nodo",
+        "newpage" : "Nuovo Nome Pagina",
+        "add" : "Aggiungi",
+        "action" : "Operazione",
+        "remove" : "Elimina",
+        "cut" : "Taglia",
+        "paste" : "Incolla",
+        "rename" : "Rinomina",
+        "addpaste" : "Aggiungi / Copia",
+        "before" : "Prima",
+        "after" : "Dopo",
+        "in" : "In",
+        "comment" : "Commento Revisione"
+    },
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+
+}

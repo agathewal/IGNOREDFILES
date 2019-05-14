@@ -1,0 +1,72 @@
+#tree{
+	font-size:12px;	
+	line-height:25px;
+	display:inline-block;
+	margin-left:-14px;
+}
+
+#tree_wiki{
+	font-size:12px;	
+	display:inline-block;
+	margin-left:-14px;
+}
+
+div.node{
+	clear:both;
+	padding-left:15px;
+}
+
+div.toggle{
+	cursor:pointer;
+	float:left;
+	clear:both;
+	width:16px;
+	height:25px;
+	line-height:25px;
+    margin-right:2px;
+	text-align:center;
+	vertical-align:middle;
+	padding:0;	
+}
+
+.open{
+    background:url('../../../../images/arrow_small_down.png') no-repeat scroll -2px 0px transparent;
+}
+
+.closed{
+	 background: url("../../../../images/arrow_right_mini.png") no-repeat scroll 0px 4px transparent;
+}
+
+div.nodelabel{
+	cursor:pointer;
+	float:left;
+	padding-left:20px;
+	background:url('../images/folder_open.png');
+	background-repeat:no-repeat;
+	background-position:left;
+	display:inline;
+}
+
+div.closelabel{
+	display:inline;
+	cursor:pointer;
+	float:left;
+	padding-left:20px;
+	background:url('../images/folder.png');
+	background-repeat:no-repeat;
+	background-position:left;
+}
+
+div.leaf{
+	display:inline;
+	cursor:pointer;
+	margin-left:33px;
+	padding-left:20px;
+	float:left;
+	clear:both;
+	background:url('../images/file.png');
+	background-repeat:no-repeat;
+	background-position:left;
+}
+
+

@@ -1,0 +1,8 @@
+pre.syntax_java { color:#333;}
+span.javacmt { font-style: italic; color: green; }
+span.javastr { font-style: italic; color: #800; }
+span.javakwd { color: #00a; font-weight:bold;}
+span.javakwd2 { color: #08c; font-weight:bold;}
+span.javaliteral { color: #808; font-weight:bold;}
+span.javambr { color: #80c;}
+

@@ -1,0 +1,145 @@
+<style type="text/css">
+	div.action{
+		clear:both;
+		float:left;
+		width:200px;
+	}
+	
+	div.markup{
+		float:left;
+		
+	}
+	
+	div.line{
+		clear:both;
+		border-top:1px dotted #888;
+		padding-top:3px;
+	}
+	
+	div.clear{
+		clear:both;
+	}
+	
+	div.h1{
+		font-size:28px;
+		font-weight:bold;
+	}
+	
+	div.h2{
+		font-size:24px;
+		font-weight:bold;
+	}
+
+	div.inlinestlye{
+		color:#f00;
+	}
+	
+	a.cheat{
+		color:#00f;
+		text-decoration:underline;
+	}
+
+	a.cheat:hover{
+		color:#f00;
+	}
+
+</style>
+
+<div style="height:300px;overflow:auto;">
+<div class="line">
+	<div class="action">=text=</div><div class="markup"><div class="h1">text</div></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">==text==</div><div class="markup"><div class="h2">text</div></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">etc. to 6</div><div class="markup"><div class="h1"></div></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">paragraph</div><div class="markup">separate with empty line</div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">\\</div><div class="markup">linebreak</div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">_emphasized_</div><div class="markup"><em>emphasized</em></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">*bold*</div><div class="markup"><strong>bold</strong></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action"><br/>* line 1<br/> * line2</div><div class="markup"><ul><li>line 1</li><li>line 2</li></ul></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action"><br/>1. ordered<br/>1. list</div><div class="markup"><ol style="list-style-type:decimal;"><li class="1">ordered</li><li class="1">list</li></ol></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">[http://u.ri, title]</div><div class="markup"><a class="cheat" href="http://richardbondi.homelinux.org">title</a></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">uri/images/WikiHelp14.png</div><div class="markup"><img src="images/WikiHelp14.png" />  </div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">{c:blue}paragraph</div><div class="markup"><span style="color:blue">paragraph</span></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">{C:green}paragraph</div><div class="markup"><span style="background:green">paragraph</span></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">`{c:#ff0000;}inline`</div><div class="inlinestlye">inline style</div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">{>}indent</div><div class="markup"><p style="text-indent:20px;">indent</p></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">{>>}float right</div><div style="float:right">float right</div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">[%code block%]</div><div class="markup"><pre>code block</pre></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">super^script^</div><div class="markup">super<sup>script</sup></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">sub~script~</div><div class="markup">sub<sub>script</sub></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">%code%</div><div class="markup"><code>code</code></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">[|one|two|<br/>|three|four|]</div><div class="markup"><table><tr><td>one</td><td>two</td></tr><tr><td>three</td><td>four</td></tr></table></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">; term: definition</div><div class="markup"><dl><dt>term</dt><dd>definition</dd></dl></div>
+	<div class="clear"></div>
+</div>
+<div class="line">
+	<div class="action">?ABBR(abbreviation)?</div><div class="markup"><abbr title="abbreviation">ABBR</abbr></div>
+	<div class="clear"></div>
+</div>
+
+
+</div>
+
+

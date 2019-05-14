@@ -1,0 +1,68 @@
+#tree{
+	font-size:12px;	
+	line-height:20px;
+	display:inline-block;
+	margin-left:-14px;
+}
+
+div.node{
+	clear:both;
+	padding-left:18px;
+}
+
+div.toggle{
+	cursor:pointer;
+	float:left;
+	clear:both;
+	width:16px;
+	height:16px;
+    margin-right:2px;
+	text-align:center;
+	vertical-align:middle;
+	padding:0;	
+}
+
+.open{
+    background:url('../images/treeExpanded.png') no-repeat;
+}
+
+.closed{
+    background:url('../images/treeCollapsed.png') no-repeat;
+}
+
+div.nodelabel{
+	cursor:pointer;
+	float:left;
+	padding-left:18px;
+	background:url('../images/book_open.png');
+	background-repeat:no-repeat;
+	background-position:left;
+	display:inline;
+	color:#0c2f73;
+}
+
+div.closelabel{
+	display:inline;
+	cursor:pointer;
+	float:left;
+	padding-left:18px;
+	background:url('../images/book.png');
+	background-repeat:no-repeat;
+	background-position:left;
+	color:#0c2f73;
+}
+
+div.leaf{
+	display:inline;
+	cursor:pointer;
+	margin:5px 0 0 36px;
+	padding-left:18px;
+	float:left;
+	clear:both;
+	color:#4c7fa3;
+	background:url('../images/text-x-generic-template.png');
+	background-repeat:no-repeat;
+	background-position:left;
+}
+
+

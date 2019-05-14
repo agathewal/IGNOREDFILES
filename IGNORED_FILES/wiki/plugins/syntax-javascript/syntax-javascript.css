@@ -1,0 +1,6 @@
+pre.syntax_js { color:#333;}
+span.cmt { font-style: italic; color: green; }
+span.str { font-style: italic; color: #800; }
+span.kwd { color: blue; font-weight:bold;}
+span.obj  { color: purple; }
+span.mbr  { color: gray; }

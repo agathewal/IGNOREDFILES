@@ -1,0 +1,80 @@
+{
+    "language" : "Portugu&#234;s",
+    "password" : "Senha",
+    "email" : "Email",
+    "username" : "Usu&#225;rio",
+    "confirm" : "Confirmar",
+    "print" : "Imprimir",
+    "treehistory" : "&#193;rvore de Hist&#243;ricos",
+    "update" : "Atualizar",        
+    "userprofile" : "Perf&#237;l do Usu&#225;rio",     
+    "subscribe" : "Aceito as mudan&#231;as",       
+    "save" : "Salvar",        
+    "cancel" : "Cancelar",        
+    "preview" : "Visualizar",      
+    "comment" : "Comentar",      
+    "return" : "Retornar",        
+    "images" : "Imagens",        
+    "insertimage" : "Inserir Imagem",     
+    "reference" : "Refer&#234;ncias",      
+    "pagelocked" : "Travar P&#225;gina",       
+    "sourceview" : "Visualizar Origem",       
+    "choosefile" : "Escolher Arquivo",       
+    "upload" : "Upload",
+    
+    "scroll" : "Rolar", 
+           
+    "history" : {
+        "display" : "Mostrar",      
+        "revert" : "Reverter",        
+        "revision" : "Revisao",        
+        "old" : "antigo",      
+        "new" : "novo",      
+        "lines" : "linhas",      
+        "current" : "Atual", 
+             
+        "diff" : "Diferen&#231;a",
+        "action" : "A&#231;&#227;o",
+        "goback" : "Retornar"
+    },      
+    "menu" : {
+        "login" : "Entrar",
+        "logout" : "Sair",
+        "register" : "Registrar",
+        "edit" : "Editar",
+        "tags" : "Tags",
+        "profile" : "Perf&#237;l",
+        "history" : "Hist&#243;ria",
+        
+        "edittags" : "Editar Tags",
+        "view" : "Visualizar",
+        "admin" : "Administrador"       
+    },
+    "tabs" : {
+        "contents" : "Conte&#250;dos",
+        "index" : "Ind&#237;ce",
+        "search" : "Busca",
+        "type" : "Digite Palavras-Chave para localizar",
+        "list" : "Listar T&#243;picos"
+    },
+    "node" : {
+        "title" : "Op&#231;&#227;o de N&#243;s",
+        "newpage" : "Nome para a Nova P&#225;gina",
+        "add" : "Adicionar",
+        "action" : "A&#231;&#227;o",
+        "remove" : "Remover",
+        "cut" : "Recortar",
+        "paste" : "Colar",
+        "rename" : "Renomear",
+        "addpaste" : "Adicionar / Colar",
+        "before" : "Antes",
+        "after" : "Depois",
+        "in" : "Dentro",
+        "comment" : "Coment&#225;rio da Revis&#227;o"
+    },
+    "message" : {
+        "unlocked" : "Esta p&#225;gina foi bloqueada",
+        "loggedin" : "Voc&#234; deve logar para alterar a estrutura.",
+        "unauthorized" : "Voc&#234; n&#227;o tem autoriza&#231;&#227;o para alterar a estrutura do site!"
+    }
+}

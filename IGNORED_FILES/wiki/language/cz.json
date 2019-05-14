@@ -1,0 +1,82 @@
+{
+	"language" : "Čeština",
+	"password" : "Heslo",
+	"email" : "E-mail",
+	"username" : "Uživatelské jméno",
+	"confirm" : "Potvrdit",
+	"print" : "Tisk",
+	"treehistory" : "Historie stromu",
+	"update" : "Aktualizovat",		
+	"userprofile" : "Můj profil",
+	"subscribe" : "Informovat o změnách",
+	"save" : "Uložit",
+	"cancel" : "Zrušit",
+	"preview" : "Náhled",
+	"comment" : "Komentář",
+	"return" : "Zpět",
+	"images" : "Obrázky",
+	"insertimage" : "Vložit obrázek",
+	"reference" : "Reference",		
+	"pagelocked" : "Stránku nelze editovat",
+	"sourceview" : "Zobrazit zdroj",
+	"choosefile" : "Vyberte soubor",
+	"upload" : "Nahrát",
+    
+    "scroll" : "Scroll", 
+           
+	"history" : {
+		"display" : "Zobrazit",
+		"revert" : "Vrátit",
+		"revision" : "Revize",
+		"old" : "Předchozí",
+		"new" : "Nová",
+		"lines" : "Řádek",
+		"current" : "Aktuální", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+	},		
+	"menu" : {
+		"login" : "Přihlášení",
+		"logout" : "Odhlášení",
+		"register" : "Registrace",
+		"edit" : "Editovat",
+		"tags" : "Poznámka",
+		"profile" : "Profil",
+		"history" : "Historie",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin"      
+	},
+	"tabs" : {
+		"contents" : "Obsah",
+		"index" : "Index",
+		"search" : "Vyhledávání",
+		"type" : "Vložte text pro vyhledávání",
+		"list" : "Zobraz příspěvky"
+	},
+	"node" : {
+		"title" : "Vlastnosti uzlu",
+		"newpage" : "Název nové stránky",
+		"add" : "Přidat",
+		"action" : "Akce",
+		"remove" : "Odstranit",
+		"cut" : "Vyjmout",
+		"paste" : "Vložit",
+		"rename" : "Přejmenovat",
+		"addpaste" : "Přidat / Vložit",
+		"before" : "Před",
+		"after" : "Za",
+		"in" : "Do",
+		"comment" : "Komentář k revizi"
+	},
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+
+}

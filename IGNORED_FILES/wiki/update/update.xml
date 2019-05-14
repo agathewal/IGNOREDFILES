@@ -1,0 +1,17 @@
+<wwh>
+	<current>0.3.7</current>
+	<upgrade version="0.3.7">
+		<file path="handlers/imagepage.php" />
+		<file path="plugins/syntax-xml/syntax-xml.js" />	
+		<file path="handlers/history.php" />
+		<file path="script/ui.js" />
+		<file path="script/scripts_min.js" />
+		<database update="true">
+			<query>ALTER TABLE  `user` ADD  `test` VARCHAR( 10 ) NOT NULL DEFAULT  ''</query>
+			<query>ALTER TABLE  `user` ADD  `test2` VARCHAR( 20 ) NOT NULL DEFAULT  ''</query>
+		</database>
+	</upgrade>
+	<upgrade version="0.3.6">
+		<file path="handlers/imagepage.php" />
+	</upgrade>
+</wwh>

@@ -1,0 +1,83 @@
+{
+	"language" : "español",
+	"password" : "Contraseña",
+	"email" : "email",
+	"username" : "Nombre de usuario",
+	"confirm" : "Confirmar",
+	"print" : "Imprimir",
+	"treehistory" : "Historia Arbolero",
+	"update" : "Actualización",		
+	"userprofile" : "Perfil de Usuario",		
+	"subscribe" : "Suscríbase a cambios",		
+	"save" : "Guardar",		
+	"cancel" : "Cancelar",		
+	"preview" : "Preview",		
+	"comment" : "Commentario",		
+	"return" : "Regresar",		
+	"images" : "Imagenes",		
+	"insertimage" : "Insertar Imagen",		
+	"reference" : "Referencia",		
+	"pagelocked" : "Pagigina Condenada",		
+	"sourceview" : "Vista de Origen",		
+	"choosefile" : "Selecionar Archivo",		
+	"upload" : "Subir",	
+    
+    "scroll" : "Scroll", 
+           	
+	"history" : {
+		"display" : "Enseñar",		
+		"revert" : "Volver",		
+		"revision" : "Revisión",		
+		"old" : "anterior",		
+		"new" : "nuevo",		
+		"lines" : "linias",		
+		"current" : "Corriente", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+	},		
+	"menu" : {
+		"login" : "Entrar",
+		"logout" : "Salir",
+		"register" : "Registrarse",
+		"edit" : "Cambiar",
+		"tags" : "Tags",
+		"profile" : "Perfil",
+		"history" : "Historia",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin"       		
+	},
+	"tabs" : {
+		"contents" : "Contenido",
+		"index" : "Indice",
+		"search" : "Busqueda",
+		"type" : "Teclee para encontrar",
+		"list" : "Listar Temas"
+	},
+	"node" : {
+		"title" : "Opciones de Nodo",
+		"newpage" : "Nuevo Nombre",
+		"add" : "Añadir",
+		"action" : "Acción",
+		"remove" : "Quitar",
+		"cut" : "Cortar",
+		"paste" : "Pegar",
+		"rename" : "Renombrar",
+		"addpaste" : "Añadir / Pegar",
+		"before" : "Antes",
+		"after" : "Después",
+		"in" : "En",
+		"comment" : "Comentario de Revisión"
+	},
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+
+
+}

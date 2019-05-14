@@ -1,0 +1,81 @@
+{
+    "language" : "English",
+    "password" : "Password",
+    "email" : "email",
+    "username" : "Username",
+    "confirm" : "Confirm",
+    "print" : "Print",
+    "treehistory" : "Tree History",
+    "update" : "Update",        
+    "userprofile" : "User Profile",     
+    "subscribe" : "Subscribe to changes",       
+    "save" : "Save",        
+    "cancel" : "Cancel",        
+    "preview" : "Preview",      
+    "comment" : "Comment",      
+    "return" : "Return",        
+    "images" : "Images",        
+    "insertimage" : "Insert Image",     
+    "reference" : "Reference",      
+    "pagelocked" : "Page Locked",       
+    "sourceview" : "Source View",       
+    "choosefile" : "Choose File",       
+    "upload" : "Upload",
+    
+    "scroll" : "Scroll", 
+           
+    "history" : {
+        "display" : "Display",      
+        "revert" : "Revert",        
+        "revision" : "Revision",        
+        "old" : "old",      
+        "new" : "new",      
+        "lines" : "lines",      
+        "current" : "Current", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+    },      
+    "menu" : {
+        "login" : "Login",
+        "logout" : "Logout",
+        "register" : "Register",
+        "edit" : "Edit",
+        "tags" : "Tags",
+        "profile" : "Profile",
+        "history" : "History",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin"       
+    },
+    "tabs" : {
+        "contents" : "Contents",
+        "index" : "Index",
+        "search" : "Search",
+        "type" : "Type in the keyword to find",
+        "list" : "List Topics"
+    },
+    "node" : {
+        "title" : "Node Options",
+        "newpage" : "New Page Name",
+        "add" : "Add",
+        "action" : "Action",
+        "remove" : "Remove",
+        "cut" : "Cut",
+        "paste" : "Paste",
+        "rename" : "Rename",
+        "addpaste" : "Add / Paste",
+        "before" : "Before",
+        "after" : "After",
+        "in" : "In",
+        "comment" : "Revision Comment"
+    },
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+}

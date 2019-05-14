@@ -1,0 +1,9 @@
+pre.syntax_php { color:#333;}
+span.phpcmt { font-style: italic; color: green; }
+span.phpstr { font-style: italic; color: #800; }
+span.phpkwd { color: #00a; font-weight:bold;}
+span.phpkwd2 { color: #08c; font-weight:bold;}
+span.phpliteral { color: #808; font-weight:bold;}
+span.phpmbr { color: #80c;}
+span.phpvar { color: #aaf; font-weight:bold;}
+

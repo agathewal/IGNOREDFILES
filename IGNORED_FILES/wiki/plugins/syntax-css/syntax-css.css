@@ -1,0 +1,7 @@
+pre.syntax_css { color:#333;}
+span.cssstr { font-style: italic; color: #880; }
+span.cmt { font-style: italic; color: green; }
+span.csskwd { color: purple; font-weight:bold;}
+span.cssval  { color: gray;}
+span.cssprop  { color: #600;}
+span.tag  { color: blue; }

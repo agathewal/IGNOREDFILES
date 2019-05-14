@@ -1,0 +1,7 @@
+pre.syntax_xml { color:#333; }
+span.xcmt { font-style: italic; color: green; }
+span.cdata { font-style: italic; font-weight:bold; color: #aaa; }
+span.xtag { color: #a40; font-weight:bold; }
+span.xnam { color: #f00; }
+span.xval { color: #00c; }
+span.xsymb { color: #00f; }

@@ -1,0 +1,5 @@
+pre.syntax_sql { color:#333;}
+span.sqlcmt { font-style: italic; color: green; }
+span.sqlstr { font-style: italic; color: #800; }
+span.sqlkwd { color: #00a; font-weight:bold;}
+span.sqlnum { color: #f00; font-weight:bold;}

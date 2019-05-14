@@ -1,0 +1,53 @@
+Binary file .bzr/checkout/dirstate matches
+admin/blocked.php:10:		$sql = "INSERT INTO `blocked` VALUES('{$_POST['ip']}')";
+admin/blocked.php:11:        $result = $db->query($sql) or die("Database Error - Unable to insert address.");
+class/html/class_node.html:92:    <tr><td valign="top"></td><td valign="top"><em>$path</em>&nbsp;</td><td>The path to be inserted </td></tr>
+class/html/class_node.html:93:    <tr><td valign="top"></td><td valign="top"><em>$id</em>&nbsp;</td><td>The id of the node to be inserted </td></tr>
+class/node.class.php:209:				$sql = "INSERT INTO page VALUES($this->target,'$this->lang','$this->name','=$this->name=',0)";
+class/node.class.php:240:        $sql = "INSERT INTO `node_revision` (revision_id,node_id,user_id,user_ip,language,action, comment,revision_time,label) ";
+class/node.class.php:392:            // insert in folder at the end
+class/node.class.php:411:            // shift nodes up before inserting and updating target
+class/node.class.php:447:            $sql = "INSERT INTO node VALUES(NULL,$parent_id, '".$this->name."', $newpos, 0)";
+class/node.class.php:453:                $this->json="{'response':'Database Error, Unable to insert node'}";
+class/node.class.php:456:            $new_id = mysql_insert_id();
+class/node.class.php:458:            $sql = "INSERT INTO page VALUES($new_id, '$this->lang','$this->name','=$this->name=',0)";
+class/node.class.php:523:     * @param $path The path to be inserted
+class/node.class.php:524:     * @param $id   The id of the node to be inserted
+class/node.class.php:528:        $sql = "INSERT INTO redirect VALUES('$path', '$this->lang', $id)";
+class/revision.class.php:43:		$sql = "INSERT INTO `revision` (revision_id,node_id,language,user_id,user_ip, `type`, page_text, comment,revision_time) ";
+class/tags.class.php:65:		            $sql = "INSERT INTO tagxref VALUES('',$tag_id,$this->node_id,'$this->language')";
+class/tags.class.php:66:		            $result = $db->query($sql) or die("{'response':'Database 2 Error - Unable to insert tag.'}");
+class/tags.class.php:68:		            $sql = "INSERT INTO tag VALUES('','$tag')";
+class/tags.class.php:69:		            $result = $db->query($sql) or die("{'response':'Database Error 3 - Unable to insert tag.'}");
+class/tags.class.php:70:		            $tag_id = mysql_insert_id();
+class/tags.class.php:72:		            $sql = "INSERT INTO tagxref VALUES('',$tag_id,$this->node_id,'$this->language')";
+class/tags.class.php:73:		            $result = $db->query($sql) or die("{'response':'Database Error 4 - Unable to insert tag. $sql'}");
+class/tags.class.php:91:				$result = $db->query($sql) or die("{'response':'Database 6 Error - Unable to insert tag.'}");
+handlers/buttons.php:8:		$html .= "<div style='float:left;'><input type='image' class='image' src='images/system/insert-horizontal-rule.png' title='<hr/>' onclick='editbuttons(\"HR\")'; /></div>";
+handlers/buttons.php:11:		$html .= "<div style='float:left;'><input type='image' class='image' src='images/system/insert-link.png' title='<a href=url>selection</a>' onclick='editbuttons(\"A\")'; /></div>";
+handlers/buttons.php:12:		$html .= "<div style='float:left;'><input type='image' class='image' src='images/system/insert-image.png' title='".$language->insertimage."' onclick='imagepage()'; /></div>";
+handlers/editpage.php:57:$html .=  "<div id='imgins' style='float:right;display:none;'><div style=';margin-right:20px;'><a href=\"javascript:insertimage()\">".$language->insertimage."</a></div></div>";
+handlers/editsave.php:49:	$sql = "INSERT INTO page (node_id,language,label,page_text,locked) ";
+handlers/register.php:17:	$sql = "INSERT INTO user (user_id, user_name, password, email) VALUES('','$user','$pass','$email')";
+handlers/register.php:18:	$uid = mysql_insert_id();
+handlers/reverttorev.php:38:$sql = "INSERT INTO `revision` (revision_id,node_id,language,user_id,user_ip, `type`, page_text, comment,revision_time) ";
+handlers/subscribe.php:13:	$sql = "INSERT INTO `subscription` VALUES('', $page, '$lang', $uid)";
+language/bg.json:18:	"insertimage" : "Постави Изображение",		
+language/cz.json:18:	"insertimage" : "Vložit obrázek",
+language/de.json:18:	"insertimage" : "Bild einfügen",		
+language/en.json:18:    "insertimage" : "Insert Image",     
+language/es.json:18:	"insertimage" : "Insertar Imagen",		
+language/fr.json:18:    "insertimage" : "Insérer Image",     
+language/it.json:18:    "insertimage" : "Inserisci immagine",
+language/nl.json:18:	"insertimage" : "Afbeelding invoegen",		
+language/ro.json:18:    "insertimage" : "Inserează imagine",     
+language/ru.json:18:    "insertimage" : "Вставить изображение",     
+language/tr.json:18:    "insertimage" : "Resim Ekle",
+language/zh.json:18:    "insertimage" : "插入图片",     
+plugins/syntax-sql/syntax-sql.js:20:          { rex:/\b(ADD|ALL|ALTER|ANALYZE|AND|AS|ASC|ASENSITIVE|BEFORE|BETWEEN|BIGINT|BINARY|BLOB|BOTH|BY|CALL|CASCADE|CASE|CHANGE|CHAR|CHARACTER|CHECK|COLLATE|COLUMN|CONDITION|CONNECTION|CONSTRAINT|CONTINUE|CONVERT|CREATE|CROSS|CURRENT_DATE|CURRENT_TIME|CURRENT_TIMESTAMP|CURRENT_USER|CURSOR|DATABASE|DATABASES|DAY_HOUR|DAY_MICROSECOND|DAY_MINUTE|DAY_SECOND|DEC|DECIMAL|DECLARE|DEFAULT|DELAYED|DELETE|DESC|DESCRIBE|DETERMINISTIC|DISTINCT|DISTINCTROW|DIV|DOUBLE|DROP|DUAL|EACH|ELSE|ELSEIF|ENCLOSED|ESCAPED|EXISTS|EXIT|EXPLAIN|FALSE|FETCH|FLOAT|FOR|FORCE|FOREIGN|FROM|FULLTEXT|GOTO|GRANT|GROUP|HAVING|HIGH_PRIORITY|HOUR_MICROSECOND|HOUR_MINUTE|HOUR_SECOND|IF|IGNORE|IN|INDEX|INFILE|INNER|INOUT|INSENSITIVE|INSERT|INT|INTEGER|INTERVAL|INTO|IS|ITERATE|JOIN|KEY|KEYS|KILL|LEADING|LEAVE|LEFT|LIKE|LIMIT|LINES|LOAD|LOCALTIME|LOCALTIMESTAMP|LOCK|LONG|LONGBLOB|LONGTEXT|LOOP|LOW_PRIORITY|MATCH|MEDIUMBLOB|MEDIUMINT|MEDIUMTEXT|MIDDLEINT|MINUTE_MICROSECOND|MINUTE_SECOND|MOD|MODIFIES|NATURAL|NOT|NO_WRITE_TO_BINLOG|NULL|NUMERIC|ON|OPTIMIZE|OPTION|OPTIONALLY|OR|ORDER|OUT|OUTER|OUTFILE|PRECISION|PRIMARY|PROCEDURE|PURGE|READ|READS|REAL|REFERENCES|REGEXP|RENAME|REPEAT|REPLACE|REQUIRE|RESTRICT|RETURN|REVOKE|RIGHT|RLIKE|SCHEMA|SCHEMAS|SECOND_MICROSECOND|SELECT|SENSITIVE|SEPARATOR|SET|SHOW|SMALLINT|SONAME|SPATIAL|SPECIFIC|SQL|SQLEXCEPTION|SQLSTATE|SQLWARNING|SQL_BIG_RESULT|SQL_CALC_FOUND_ROWS|SQL_SMALL_RESULT|SSL|STARTING|STRAIGHT_JOIN|TABLE|TERMINATED|THEN|TINYBLOB|TINYINT|TINYTEXT|TO|TRAILING|TRIGGER|TRUE|UNDO|UNION|UNIQUE|UNLOCK|UNSIGNED|UPDATE|USAGE|USE|USING|UTC_DATE|UTC_TIME|UTC_TIMESTAMP|VALUES|VARBINARY|VARCHAR|VARCHARACTER|VARYING|WHEN|WHERE|WHILE|WITH|WRITE|XOR|YEAR_MONTH|ZEROFILL)\b/gi, tmplt:function($0,$1){return Wiky.store("<span class\=\"sqlkwd\">"+$1+"</span>");}}, // keywords
+script/edit.js:264:function insertimage(){
+script/scripts_min.js:18:function sysclipboard(d){imageclip=d;previewcancel("");insertimage();inlinepreview()}function ContextMouseDown(d){if(d==null)d=window.event;var e=d.target!=null?d.target:d.srcElement;if(d.button==2&&e.id.indexOf("treelabel")==0)_replaceContext=true}
+script/ui.js:358:    insertimage();
+sql/wikihelp.sql:57:INSERT INTO `node` (`node_id`, `parent_id`, `label`, `node_position`, `locked`) VALUES
+sql/wikihelp.sql:99:INSERT INTO `page` (`node_id`, `language`, `label`, `page_text`, `locked`) VALUES
+sql/wikihelp.sql:190:INSERT INTO `user` (`user_id`, `user_name`, `password`, `email`, `level`, `subscribe`) VALUES

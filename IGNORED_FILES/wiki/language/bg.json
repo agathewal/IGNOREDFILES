@@ -1,0 +1,81 @@
+{
+	"language" : "Български",
+	"password" : "Парола",
+	"email" : "email",
+	"username" : "Потребител",
+	"confirm" : "Потвърди",
+	"print" : "Отпечатване",
+	"treehistory" : "Tree История",
+	"update" : "Обнови",		
+	"userprofile" : "Потребителски Профил",		
+	"subscribe" : "Абонирай се за Поправки",		
+	"save" : "Запази",		
+	"cancel" : "Отказ",		
+	"preview" : "Преглед",		
+	"comment" : "Коментар",		
+	"return" : "Назад",		
+	"images" : "Изображения",		
+	"insertimage" : "Постави Изображение",		
+	"reference" : "Справочник",		
+	"pagelocked" : "Заключена Страница",		
+	"sourceview" : "Преглед на Код",		
+	"choosefile" : "Избери файл",		
+	"upload" : "Качване",
+    
+    "scroll" : "Scroll", 
+    		
+	"history" : {
+		"display" : "Показване",		
+		"revert" : "Обръщане",		
+		"revision" : "Ревизия",		
+		"old" : "старо",		
+		"new" : "ново",		
+		"lines" : "редове",		
+		"current" : "Текущо", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+	},		
+	"menu" : {
+		"login" : "Вход",
+		"logout" : "Изход",
+		"register" : "Регистрация",
+		"edit" : "Редакция",
+		"tags" : "Тагове",
+		"profile" : "Профил",
+		"history" : "История",
+        
+        "edittags" : "Редактирай Таговете",
+        "view" : "View",
+        "admin" : "Admin"       		
+	},
+	"tabs" : {
+		"contents" : "Съдържание",
+		"index" : "Index",
+		"search" : "Търсене",
+		"type" : "Въведи думата за търсене",
+		"list" : "Търси"
+	},
+	"node" : {
+		"title" : "Node Опции",
+		"newpage" : "Име на Новата Страница",
+		"add" : "Добавяне",
+		"action" : "Действие",
+		"remove" : "Премахване",
+		"cut" : "Изрязване",
+		"paste" : "Поставяне",
+		"rename" : "Преименуване",
+		"addpaste" : "Добавяне / Поставяне",
+		"before" : "Преди",
+		"after" : "След",
+		"in" : "В",
+		"comment" : "Ревизионен Коментар"
+	},
+    "message" : {
+        "unlocked" : "Страницата трябва да бъде отключена",
+        "loggedin" : "Трябва да си логнат и страницата да бъде отключена.",
+        "unauthorized" : "Не си оторизиран да упраляваш структурата на сайта!"
+        
+    }
+}

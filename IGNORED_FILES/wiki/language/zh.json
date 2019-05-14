@@ -1,0 +1,84 @@
+{
+    "language" : "中文",
+    "password" : "密码",
+    "email" : "电子邮箱",
+    "username" : "用户名",
+    "confirm" : "密码确认",
+    "print" : "打印",
+    "treehistory" : "历程树",
+    "update" : "更新",        
+    "userprofile" : "用户自定义",     
+    "subscribe" : "订阅更新",       
+    "save" : "保存",        
+    "cancel" : "取消",        
+    "preview" : "预览",      
+    "comment" : "评论",      
+    "return" : "返回",        
+    "images" : "图片",        
+    "insertimage" : "插入图片",     
+    "reference" : "参考",      
+    "pagelocked" : "页面被锁",       
+    "sourceview" : "代码视图",       
+    "choosefile" : "选择文件",       
+    "upload" : "上传",  
+    
+    "scroll" : "Scroll", 
+           
+    "history" : {
+        "display" : "显示",      
+        "revert" : "回复",        
+        "revision" : "修正",        
+        "old" : "旧的",      
+        "new" : "新的",      
+        "lines" : "方针",      
+        "current" : "现在",
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+    },      
+    "menu" : {
+        "login" : "登录",
+        "logout" : "登出",
+        "register" : "注册",
+        "edit" : "编辑",
+        "tags" : "标签",
+        "profile" : "简介",
+        "history" : "历史",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin" 
+               
+    },
+    "tabs" : {
+        "contents" : "内容",
+        "index" : "索引",
+        "search" : "搜索",
+        "type" : "关键字查找",
+        "list" : "列出主题"
+    },
+    "node" : {
+        "title" : "节点选项",
+        "newpage" : "新页面名",
+        "add" : "添加",
+        "action" : "动作",
+        "remove" : "删除",
+        "cut" : "剪切",
+        "paste" : "粘贴",
+        "rename" : "重命名",
+        "addpaste" : "添加 / 粘贴",
+        "before" : "向前",
+        "after" : "向后",
+        "in" : "现在",
+        "comment" : "修订评论"
+    },
+    
+    
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+}

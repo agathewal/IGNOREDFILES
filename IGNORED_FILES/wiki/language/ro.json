@@ -1,0 +1,81 @@
+{
+    "language" : "Română",
+    "password" : "Parola",
+    "email" : "email",
+    "username" : "Utilizator",
+    "confirm" : "Confirmă",
+    "print" : "Imprimă",
+    "treehistory" : "Istoric ierarhizat",
+    "update" : "Actualizează",        
+    "userprofile" : "Profilul utilizatorului",     
+    "subscribe" : "Abonează-te la schimbări",       
+    "save" : "Salvează",        
+    "cancel" : "Renunţă",        
+    "preview" : "Previzualizează",      
+    "comment" : "Comentează",      
+    "return" : "Înapoi",        
+    "images" : "Imagini",        
+    "insertimage" : "Inserează imagine",     
+    "reference" : "Referinţă",      
+    "pagelocked" : "Pagină blocată",       
+    "sourceview" : "Vezi sursa",       
+    "choosefile" : "Alege un fişier",       
+    "upload" : "Încărcă", 
+    
+    "scroll" : "Parcurge", 
+                  
+    "history" : {
+        "display" : "Afişează",      
+        "revert" : "Revenire",        
+        "revision" : "Versiune",        
+        "old" : "veche",      
+        "new" : "nouă",      
+        "lines" : "linii",      
+        "current" : "Curent", 
+             
+        "diff" : "Diferențe",
+        "action" : "Acțiune",
+        "goback" : "Înapoi"
+    },      
+    "menu" : {
+        "login" : "Login",
+        "logout" : "Logout",
+        "register" : "Înregistrare",
+        "edit" : "Editează",
+        "tags" : "Etichete",
+        "profile" : "Profil",
+        "history" : "Istoric",
+        
+        "edittags" : "Modifică Tag-uri",
+        "view" : "Vizualizează",
+        "admin" : "Administrare"       
+    },
+    "tabs" : {
+        "contents" : "Conţinut",
+        "index" : "Index",
+        "search" : "Caută",
+        "type" : "Introduceţi cuvântul pentru căutare",
+        "list" : "Lista de subiecte"
+    },
+    "node" : {
+        "title" : "Opţiunile nodului",
+        "newpage" : "Numele noii pagini",
+        "add" : "Adaugă",
+        "action" : "Acţiune",
+        "remove" : "Şterge",
+        "cut" : "Cut",
+        "paste" : "Paste",
+        "rename" : "Redenumeşte",
+        "addpaste" : "Adaugă / Paste",
+        "before" : "Înainte",
+        "after" : "După",
+        "in" : "În",
+        "comment" : "Comentariu pentru versiune"
+    },
+    "message" : {
+        "unlocked" : "Pagina trebuie să fie deblocată",
+        "loggedin" : "Trebuie să fiți autentificat și pagina trebuie să fie deblocată.",
+        "unauthorized" : "Nu sunteți autorizat să gestionați structura site-ului!"
+        
+    }
+}

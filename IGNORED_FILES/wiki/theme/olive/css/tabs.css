@@ -1,0 +1,52 @@
+
+div.taboff{
+	border:1px solid #888888;
+	background:url('../images/tab-off.png') repeat-x;
+	color:#888888;
+	float:left;
+	margin-left:5px;
+	padding:0 8px 0 8px;
+	line-height:20px;
+	cursor:pointer;
+	font-size:11px;
+}
+
+div.tabon{
+	border:1px solid #888888;
+	border-bottom:1px solid #6c9fc3;
+	background:url('../images/tab-on.png') repeat-x;
+	color:#457c45;
+	float:left;
+	margin-left:5px;
+	padding:0 8px 0 8px;
+	line-height:20px;
+	font-size:11px;
+}
+
+div.tabpane{
+	position:absolute;
+	top:12px;
+	bottom:2px;
+	left:10px;
+	right:8px;
+	vertical-align:text-top;
+	display:inline-block;
+	z-index:0;
+	min-width:265px;
+}
+
+div.tabcontent{
+	border:1px solid #888888;
+	position:absolute;
+	top:16px;
+	bottom:22px;
+	left:10px;
+	right:0px;
+	text-align:left;
+	background:#ffffff;
+	display:block;
+	z-index:-1;
+	overflow:auto;
+}
+
+

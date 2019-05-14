@@ -1,0 +1,81 @@
+{
+    "language" : "Russian",
+    "password" : "Пароль",
+    "email" : "email",
+    "username" : "Ник",
+    "confirm" : "Повторить",
+    "print" : "Печать",
+    "treehistory" : "Tree History",
+    "update" : "Обновить",        
+    "userprofile" : "Профиль",     
+    "subscribe" : "Subscribe",       
+    "save" : "Сохранить",        
+    "cancel" : "Закрыть",        
+    "preview" : "Показать",      
+    "comment" : "Комментарий",      
+    "return" : "Вернуться",        
+    "images" : "Изображения",        
+    "insertimage" : "Вставить изображение",     
+    "reference" : "Опции",      
+    "pagelocked" : "Редактирование запрещено",       
+    "sourceview" : "Source View",       
+    "choosefile" : "Выбрать файл",       
+    "upload" : "Обновить",
+    
+    "scroll" : "Scroll", 
+                   
+    "history" : {
+        "display" : "Display",      
+        "revert" : "Revert",        
+        "revision" : "Revision",        
+        "old" : "old",      
+        "new" : "new",      
+        "lines" : "lines",      
+        "current" : "Current", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+    },      
+    "menu" : {
+        "login" : "Логин",
+        "logout" : "Выход",
+        "register" : "Регистрация",
+        "edit" : "Правка",
+        "tags" : "Тэги",
+        "profile" : "Профиль",
+        "history" : "History",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin"       
+    },
+    "tabs" : {
+        "contents" : "Содержание",
+        "index" : "Главная",
+        "search" : "Поиск",
+        "type" : "Введите слово для поиска",
+        "list" : "Показать"
+    },
+    "node" : {
+        "title" : "Node Options",
+        "newpage" : "New Page Name",
+        "add" : "Add",
+        "action" : "Action",
+        "remove" : "Remove",
+        "cut" : "Cut",
+        "paste" : "Paste",
+        "rename" : "Rename",
+        "addpaste" : "Add / Paste",
+        "before" : "До",
+        "after" : "После",
+        "in" : "В",
+        "comment" : "Revision Comment"
+    },
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+}

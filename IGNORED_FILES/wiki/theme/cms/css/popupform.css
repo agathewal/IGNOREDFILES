@@ -1,0 +1,70 @@
+   a.close{
+   	background:#6c9fc3;
+	color:white;
+	border:2px solid #4c7fa3;
+	font-size:16px;
+	font-weight:bold;
+	line-height:28px;
+	vertical-align:middle;
+	padding:0 5px 3px 5px;
+	text-decoration:none;
+   }
+
+   a.close:hover{
+   	background:#6c9fff;
+   }
+   
+   
+
+   div.popup{
+  	  position:absolute;
+  	  top:3px;
+  	  left:3px;
+  	  border:3px solid #4c7fa3;
+  	  background:url('../images/popup.png') #dfe5ea repeat-x;
+  	  padding:3px 8px 15px 8px;
+  	  font-family: Arial, Helvetica, sans-serif;
+  	  font-size:12px;
+      opacity:0.95;
+	  filter:alpha(opacity=95);   
+      z-index:101;
+  }
+  
+   div.header{
+   	   text-align:center;
+   	   font-weight:bold;
+   	   margin-bottom:15px;
+   	   font-size:1.5em
+   }
+
+   
+   div.label{
+   	   float:left;
+   	   width:70px;
+   	   text-align:right;
+   }
+   
+   div.labelvar{
+   	   float:left;
+   	   margin-left:5px;
+   }
+   
+   div.field{
+   	   float:left; 
+   	   margin-left:5px;
+   	   margin-top:5px;
+   }
+   
+   div.readfield{
+   	   float:left; 
+   	   margin-left:5px;
+	   color:#888;
+   }
+
+  #blocker{
+      opacity:0.45;
+      filter:alpha(opacity=45);   
+      z-index:100;
+  }
+   
+   

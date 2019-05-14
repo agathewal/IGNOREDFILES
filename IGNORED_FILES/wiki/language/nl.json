@@ -1,0 +1,82 @@
+{
+    "language" : "Nederlands",
+	"password" : "Wachtwoord",
+	"email" : "E-mail",
+	"username" : "Gebruikers naam",
+	"confirm" : "Bevestig",
+	"print" : "Print",
+	"treehistory" : "Geschiedenis boom ",
+	"update" : "Update",		
+	"userprofile" : "Gebruikers profiel ",		
+	"subscribe" : "Abonneer op wijzigingen",		
+	"save" : "Bewaar",		
+	"cancel" : "Annuleer",		
+	"preview" : "Voorvertoning",		
+	"comment" : "Commentaar",		
+	"return" : "Terug",		
+	"images" : "Afbeeldingen",		
+	"insertimage" : "Afbeelding invoegen",		
+	"reference" : "Verwijzing",		
+	"pagelocked" : "Pagina gesloten",		
+	"sourceview" : "Bekijk bron",		
+	"choosefile" : "Kies bestand",		
+	"upload" : "Upload",
+    
+    "scroll" : "Scroll", 
+           		
+	"history" : {
+		"display" : "Toon",		
+		"revert" : "Keer terug",		
+		"revision" : "Revision",		
+		"old" : "old",		
+		"new" : "new",		
+		"lines" : "lines",		
+		"current" : "Current", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+	},		
+    "menu" : {
+        "login" : "Log in",
+        "logout" : "Log out",
+        "register" : "Registreer",
+        "edit" : "Bewerk",
+        "tags" : "Markeringen",
+		"profile" : "Profiel",
+        "history" : "Geschiedenis",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin"       
+    },
+    "tabs" : {
+        "contents" : "Inhoud",
+        "index" : "Index",
+        "search" : "Zoeken",
+		"type" : "Geef de zoek term in om te vinden",
+		"list" : "Onderwerpen lijst"
+    },
+	"node" : {
+		"title" : "Knoop optie's",
+		"newpage" : "Nieuwe pagina naam",
+		"add" : "Toevoegen",
+		"action" : "Actie",
+		"remove" : "Verwijder",
+		"cut" : "Knip",
+		"paste" : "Plak",
+		"rename" : "Hernoem",
+		"addpaste" : "Toevoegen / plakken",
+		"before" : "Voordien",
+		"after" : "Na",
+		"in" : "In",
+		"comment" : "Commentaar van de revisie"
+	},
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+
+}

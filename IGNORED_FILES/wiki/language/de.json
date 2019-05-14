@@ -1,0 +1,82 @@
+{
+	"language" : "Deutsch",
+	"password" : "Passwort",
+	"email" : "Email",
+	"username" : "Benutzername",
+	"confirm" : "Bestätigen",
+	"print" : "Drucken",
+	"treehistory" : "Chronik",
+	"update" : "Update",		
+	"userprofile" : "Benutzerprofil",		
+	"subscribe" : "Änderungen speichern",		
+	"save" : "Speichern",		
+	"cancel" : "Abbrechen",		
+	"preview" : "Vorschau",		
+	"comment" : "Kommentar",		
+	"return" : "Zurrück",		
+	"images" : "Bilder",		
+	"insertimage" : "Bild einfügen",		
+	"reference" : "Referenz",		
+	"pagelocked" : "Seite gesperrt",		
+	"sourceview" : "Sourcecode angucken",		
+	"choosefile" : "Datei auswählen",		
+	"upload" : "Hochladen",
+    
+    "scroll" : "Scroll", 
+           		
+	"history" : {
+		"display" : "Anzeigen",		
+		"revert" : "Rückwärts",		
+		"revision" : "Revision",		
+		"old" : "alt",		
+		"new" : "neu",		
+		"lines" : "Zeilen",		
+		"current" : "Aktuell", 
+             
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Return"
+	},		
+	"menu" : {
+		"login" : "Login",
+		"logout" : "Logout",
+		"register" : "Registrieren",
+		"edit" : "Editieren",
+		"tags" : "Tags",
+		"profile" : "Profil",
+		"history" : "Chronik",
+        
+        "edittags" : "Edit Tags",
+        "view" : "View",
+        "admin" : "Admin"    		
+	},
+	"tabs" : {
+		"contents" : "Inhalte",
+		"index" : "Index",
+		"search" : "Suchen",
+		"type" : "Zu suchendes Schlüsselwort",
+		"list" : "Themen auflisten"
+	},
+	"node" : {
+		"title" : "Knotenoptionen",
+		"newpage" : "Name der neuen Seite",
+		"add" : "Hinzufügen",
+		"action" : "Aktion",
+		"remove" : "Entfernen",
+		"cut" : "Ausschneiden",
+		"paste" : "Einfügen",
+		"rename" : "Umbenennen",
+		"addpaste" : "Hinzufügen / Einfügen",
+		"before" : "Zurrück",
+		"after" : "Vorwärts",
+		"in" : "In",
+		"comment" : "Durchsicht-Anmerkung"
+	},
+    "message" : {
+        "unlocked" : "The page must be unlocked",
+        "loggedin" : "You must be logged in and the page must be unlocked.",
+        "unauthorized" : "You are not authorized to manage site structure!"
+        
+    }
+
+}

@@ -1,0 +1,7 @@
+pre.syntax_cs { color:#333;}
+span.cscmt { font-style: italic; color: green; }
+span.csstr { font-style: italic; color: #800; }
+span.cskwd { color: #00a; font-weight:bold;}
+span.cskwd2 { color: #08c; font-weight:bold;}
+span.csliteral { color: #808; font-weight:bold;}
+span.csmbr { color: #80c;}

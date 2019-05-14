@@ -1,0 +1,5 @@
+pre.syntax_bash { color:#333;}
+span.bashcmt { font-style: italic; color: green; }
+span.bashstr { font-style: italic; color: #800; }
+span.bashkwd { color: #00a; font-weight:bold;}
+span.bashvar { color: #08c; font-weight:bold;}

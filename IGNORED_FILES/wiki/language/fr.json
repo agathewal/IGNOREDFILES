@@ -1,0 +1,80 @@
+{
+    "language" : "Français",
+    "password" : "Mot de passe",
+    "email" : "Courriel",
+    "username" : "Nom d'utilisateur",
+    "confirm" : "Confirmer",
+    "print" : "Imprimer",
+    "treehistory" : "Historique Structure",
+    "update" : "Mettre à jour",        
+    "userprofile" : "Profil utilisateur",     
+    "subscribe" : "S'abonner",       
+    "save" : "Enregistrer",        
+    "cancel" : "Annuler",        
+    "preview" : "Aperçu",      
+    "comment" : "Commentaire",      
+    "return" : "Revenir",        
+    "images" : "Images",        
+    "insertimage" : "Insérer Image",     
+    "reference" : "Reférence",      
+    "pagelocked" : "Page Verouillée",       
+    "sourceview" : "Aperçu Source",       
+    "choosefile" : "Choisir fichier",       
+    "upload" : "Télécharger",
+    
+    "scroll" : "Défilement", 
+                  
+    "history" : {
+        "display" : "Aperçu",      
+        "revert" : "Retourner à cette version",        
+        "revision" : "Révision",        
+        "old" : "ancien",      
+        "new" : "nouveau",      
+        "lines" : "lignes",      
+        "current" : "Actuel",              
+        "diff" : "Diff",
+        "action" : "Action",
+        "goback" : "Retour"
+    },      
+    "menu" : {
+        "login" : "Connexion",
+        "logout" : "Déconnexion",
+        "register" : "S'enregistrer",
+        "edit" : "Modifier",
+        "tags" : "Mots clés",
+        "profile" : "Profil",
+        "history" : "Historique",        
+        "edittags" : "Ajouter Mots-clés",
+        "view" : "Vue",
+        "admin" : "Administration"              
+    },
+    "tabs" : {
+        "contents" : "Contenu",
+        "index" : "Index",
+        "search" : "Recherche",
+        "type" : "Entrez le mot à rechercher",
+        "list" : "Liste Sujets"
+    },
+    "node" : {
+        "title" : "Options Noeud",
+        "newpage" : "Nom nouvelle page",
+        "add" : "Ajouter",
+        "action" : "Action",
+        "remove" : "Supprimer",
+        "cut" : "Couper",
+        "paste" : "Coller",
+        "rename" : "Renommer",
+        "addpaste" : "Ajouter / Coller",
+        "before" : "Avant",
+        "after" : "Après",
+        "in" : "Au sein de",
+        "comment" : "Commenter révision"
+    },
+    "message" : {
+        "unlocked" : "La page doit être dévérouillée",
+        "loggedin" : "Vous devez être connecté et la page doit être dévérouillée.",
+        "unauthorized" : "Vous n'êtes pas autorisé à modifier la structure du Site!"
+        
+    }
+
+}
