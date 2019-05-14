@@ -1,0 +1,4 @@
+{
+"version" : "1.0",
+"url" : "https://www.dropbox.com/s/02bsqs41w74xq7b/app-release.apk?dl=0"
+}
